@@ -1,7 +1,7 @@
 ﻿
-namespace Interface_Exercise.Services;
+namespace Exercicio_Interface.Services;
 
- class BrasilTaxService
+ class BrasilTaxService : ITaxService
  {
     public double Tax(double amount)
     {

@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Interface_Exercise;
+namespace Exercicio_Interface;
 
 internal class Invoice
 {

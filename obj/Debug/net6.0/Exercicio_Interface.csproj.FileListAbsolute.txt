@@ -1,0 +1,15 @@
+C:\Users\rearm\source\repos\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.exe
+C:\Users\rearm\source\repos\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.deps.json
+C:\Users\rearm\source\repos\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.runtimeconfig.json
+C:\Users\rearm\source\repos\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.dll
+C:\Users\rearm\source\repos\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.pdb
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.csproj.AssemblyReference.cache
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.AssemblyInfoInputs.cache
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.AssemblyInfo.cs
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.csproj.CoreCompileInputs.cache
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.dll
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\refint\Exercicio_Interface.dll
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.pdb
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.genruntimeconfig.cache
+C:\Users\rearm\source\repos\Exercicio_Interface\obj\Debug\net6.0\ref\Exercicio_Interface.dll

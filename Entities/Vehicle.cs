@@ -1,4 +1,4 @@
-﻿namespace Interface_Exercise.Entities;
+﻿namespace Exercicio_Interface.Entities;
 internal class Vehicle
 {
     public string Model { get; set; }
